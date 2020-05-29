@@ -1,0 +1,13 @@
+Z:/PRACTICO/Lautaro.PracticoMVC/Lautaro.PracticoMVC.AccesoDatos/bin/Debug/Lautaro.PracticoMVC.AccesoDatos.dll
+Z:/PRACTICO/Lautaro.PracticoMVC/Lautaro.PracticoMVC.AccesoDatos/bin/Debug/Lautaro.PracticoMVC.AccesoDatos.pdb
+Z:/PRACTICO/Lautaro.PracticoMVC/Lautaro.PracticoMVC.AccesoDatos/bin/Debug/Lautaro.PracticoMVC.Entidades.dll
+Z:/PRACTICO/Lautaro.PracticoMVC/Lautaro.PracticoMVC.AccesoDatos/bin/Debug/Lautaro.PracticoMVC.Entidades.pdb
+Z:/PRACTICO/Lautaro.PracticoMVC/Lautaro.PracticoMVC.AccesoDatos/obj/Debug/Lautaro.PracticoMVC.AccesoDatos.csprojAssemblyReference.cache
+Z:/PRACTICO/Lautaro.PracticoMVC/Lautaro.PracticoMVC.AccesoDatos/obj/Debug/Lautaro.PracticoMVC.AccesoDatos.csproj.CopyComplete
+Z:/PRACTICO/Lautaro.PracticoMVC/Lautaro.PracticoMVC.AccesoDatos/obj/Debug/Lautaro.PracticoMVC.AccesoDatos.dll
+Z:/PRACTICO/Lautaro.PracticoMVC/Lautaro.PracticoMVC.AccesoDatos/obj/Debug/Lautaro.PracticoMVC.AccesoDatos.pdb
+Z:/PRACTICO/Lautaro.PracticoMVC/Lautaro.PracticoMVC.AccesoDatos/bin/Debug/Dapper.dll
+Z:/PRACTICO/Lautaro.PracticoMVC/Lautaro.PracticoMVC.AccesoDatos/bin/Debug/Dapper.SqlBuilder.dll
+Z:/PRACTICO/Lautaro.PracticoMVC/Lautaro.PracticoMVC.AccesoDatos/bin/Debug/Dapper.xml
+/home/lautaro/Descargas/Lautaro.PracticoMVC/Lautaro.PracticoMVC.AccesoDatos/obj/Debug/Lautaro.PracticoMVC.AccesoDatos.dll
+/home/lautaro/Descargas/Lautaro.PracticoMVC/Lautaro.PracticoMVC.AccesoDatos/obj/Debug/Lautaro.PracticoMVC.AccesoDatos.pdb

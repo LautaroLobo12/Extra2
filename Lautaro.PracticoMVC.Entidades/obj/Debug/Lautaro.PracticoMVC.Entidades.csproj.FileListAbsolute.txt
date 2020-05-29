@@ -1,0 +1,5 @@
+Z:\PRACTICO\Lautaro.PracticoMVC\Lautaro.PracticoMVC.Entidades\bin\Debug\Lautaro.PracticoMVC.Entidades.dll
+Z:\PRACTICO\Lautaro.PracticoMVC\Lautaro.PracticoMVC.Entidades\bin\Debug\Lautaro.PracticoMVC.Entidades.pdb
+Z:\PRACTICO\Lautaro.PracticoMVC\Lautaro.PracticoMVC.Entidades\obj\Debug\Lautaro.PracticoMVC.Entidades.csprojAssemblyReference.cache
+Z:\PRACTICO\Lautaro.PracticoMVC\Lautaro.PracticoMVC.Entidades\obj\Debug\Lautaro.PracticoMVC.Entidades.dll
+Z:\PRACTICO\Lautaro.PracticoMVC\Lautaro.PracticoMVC.Entidades\obj\Debug\Lautaro.PracticoMVC.Entidades.pdb
