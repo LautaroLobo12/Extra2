@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DC0D6113-BA25-4526-9D59-2F612AF8E476}</ProjectGuid>
+    <ProjectGuid>{JK0B6117-AB15-5483-8J70-0S475KR8P209}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Lautaro.PracticoMVC.AccesoDatos</RootNamespace>
@@ -59,7 +59,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Lautaro.PracticoMVC.Entidades\Lautaro.PracticoMVC.Entidades.csproj">
-      <Project>{95ae88cd-dd8e-49e8-9e10-30a8f827239e}</Project>
+      <Project>{73af55rh-rr9g-73g6-8g01-64a3g982510f}</Project>
       <Name>Lautaro.PracticoMVC.Entidades</Name>
     </ProjectReference>
   </ItemGroup>
